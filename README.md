@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi All !
+
+Parth here, i like java and android developing.
+i am working on android app right now.
